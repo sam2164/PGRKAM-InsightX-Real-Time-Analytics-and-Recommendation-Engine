@@ -29,22 +29,6 @@ Frontend
 Machine Learning
 	•	Basic recommendation logic (Collaborative Filtering – simple implementation)
 
-Project Structure :
-
-insightx/
-│
-├── backend/
-│   ├── accounts/        # User authentication logic
-│   ├── insightx/        # Core app (models, APIs, analytics, recommender)
-│   ├── mlcore/          # ML related logic
-│   ├── core/            # Django project settings
-│   ├── manage.py
-│
-├── frontend-web/
-│   ├── src/             # React frontend source code
-│   ├── package.json
-
-How to run this Project :
 
 Backend Setup
 cd backend
